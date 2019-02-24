@@ -1,0 +1,100 @@
+class   0x103   line:1
+    0x102   line:1
+Dog   0x104   line:1
+{   0x121   line:1
+
+
+       0x102   line:3
+int   0x103   line:3
+    0x102   line:3
+&   0x116   line:3
+age   0x104   line:3
+;   0x122   line:3
+
+
+       0x102   line:5
+char   0x103   line:5
+    0x102   line:5
+_name   0x104   line:5
+[   0x11d   line:5
+]   0x11d   line:5
+;   0x122   line:5
+
+
+       0x102   line:7
+float   0x103   line:7
+    0x102   line:7
+weight_0   0x104   line:7
+;   0x122   line:7
+
+
+       0x102   line:9
+public   0x103   line:9
+    0x102   line:9
+Dog   0x104   line:9
+(   0x11d   line:9
+)   0x11d   line:9
+{   0x121   line:9
+
+           0x102   line:10
+this   0x103   line:10
+.   0x108   line:10
+&   0x116   line:10
+age   0x104   line:10
+=   0x110   line:10
+3   0x107   line:10
+;   0x122   line:10
+
+           0x102   line:11
+this   0x103   line:11
+.   0x11d   line:11
+_name   0x104   line:11
+[   0x11d   line:11
+]   0x11d   line:11
+=   0x110   line:11
+"pappy"   0x109   line:11
+;   0x122   line:11
+
+           0x102   line:12
+this   0x103   line:12
+.   0x11d   line:12
+weight_0   0x104   line:12
+=   0x110   line:12
+1.23   0x108   line:12
+;   0x122   line:12
+
+       0x102   line:13
+}   0x121   line:13
+
+
+       0x102   line:15
+void   0x103   line:15
+    0x102   line:15
+do   0x103   line:15
+(   0x11d   line:15
+)   0x11d   line:15
+{   0x121   line:15
+
+           0x102   line:16
+if   0x103   line:16
+(   0x11d   line:16
+weight_0   0x104   line:16
+>   0x118   line:16
+1.5   0x108   line:16
+)   0x11d   line:16
+{   0x121   line:16
+
+               0x102   line:17
+weight_0   0x104   line:17
+-   0x107   line:17
+=   0x110   line:17
+0.2   0x108   line:17
+;   0x122   line:17
+
+           0x102   line:18
+}   0x121   line:18
+
+       0x102   line:19
+}   0x121   line:19
+
+}   0x121   line:20
